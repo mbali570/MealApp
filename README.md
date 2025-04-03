@@ -29,6 +29,8 @@ STEPS TO THE MEALAPP
 SCREENSHOT
 ![image](https://github.com/user-attachments/assets/d1e32af3-5bef-4812-91c4-1e7e8377847e)
 
+YOUTUBE VIDEO 
+https://studio.youtube.com/video/kqQ0E6JVGv8/edit
 
 USAGE
 • Sign up/login to save meal plans
@@ -38,6 +40,6 @@ USAGE
 
 
 CONTACT
-• Maintainer: [Your Name]
-• Email: [Your Email]
-• GitHub: [Your GitHub Profile]
+• Maintainer: MBALI MVAMBO 10493957
+• Email: mbalimvambo1948@gmail.com
+• GitHub: mbali570 
